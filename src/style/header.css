@@ -1,0 +1,27 @@
+header{ 
+    padding: 20px 0;
+    position: fixed;
+    top: 0;
+    width: 100%; 
+    z-index: 999;
+}
+.container_between{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.header_list{ 
+    display: flex; 
+    margin: 0;
+}
+.header_list li{ 
+    list-style-type: none; 
+    margin: 0 15px; 
+    text-transform: uppercase;
+}
+.bg-scroll{
+    background: rgb(0,0,0);
+    background: linear-gradient(173deg, rgba(0,0,0,1) 0%, rgba(52,34,1,1) 0%, rgba(235,155,6,1) 100%);
+    padding: 5px 0;
+    transition: all 0.8s cubic-bezier(.215, .61, .355, 1);
+}

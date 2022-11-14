@@ -1,0 +1,24 @@
+.video-big{ 
+    display: flex; 
+    align-items: center; 
+    justify-content: center; 
+}
+.videoHero{ 
+    height: 100vh; 
+    width: 100%; 
+    object-fit: cover; 
+    opacity: 0.5;
+}
+.hero-text{
+    position: absolute; 
+}
+.title_hero{ 
+    font-size: 75px; 
+    font-weight: bold;
+    font-family: fantasy;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    opacity: 0.9;
+}
+
+/* #292930 */

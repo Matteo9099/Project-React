@@ -1,0 +1,10 @@
+.food_title{
+    letter-spacing: 1px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+}
+.icon-food{
+    width: 50%;
+    height: 40%;
+    margin-bottom: 15px;
+}

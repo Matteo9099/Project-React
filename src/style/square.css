@@ -1,0 +1,21 @@
+.bg_square{
+    background: url('../img/cheers.jpg') no-repeat;
+    background-position: center;
+    background-size: cover;
+    padding: 50px 0;
+}
+.col-item{
+    width: 65%;
+    border: 5px solid rgb(255, 121, 43);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.col-item-color{
+    width: 65%;
+    background-color: rgb(255, 121, 43);
+    padding: 10px;
+    margin-bottom: 10px;
+}
+.web-center{
+    text-align: -webkit-center;
+} 
